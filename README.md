@@ -7,3 +7,9 @@ Please see __[Deep Work]__(https://www.quora.com/What-is-the-one-skill-that-if-y
 * Learn about Pandas. [See Videos(1-5)](https://www.dataschool.io/easier-data-analysis-with-pandas/)
 * Learn in general about ML [See Video (Blackbox Machine Learning)](https://www.youtube.com/watch?v=MsD28INtSv8)
 * Read/Practice [Day-1 and Day-2](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
+
+## Day-2
+* Learn about Pandas. [See Videos(6-10)](https://www.dataschool.io/easier-data-analysis-with-pandas/)
+* Learn in general about ML [See Video (Case Study: Churn Prediction)](https://www.youtube.com/watch?v=kE_t3Mm8Z50)
+* Read/Practice [Day-3](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
+
