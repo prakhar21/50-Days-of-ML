@@ -13,4 +13,4 @@ Please see __[Deep Work]__(https://www.quora.com/What-is-the-one-skill-that-if-y
 * Learn about Pandas. [See Videos(6-10)](https://www.dataschool.io/easier-data-analysis-with-pandas/)
 * Learn in general about ML [See Video (Case Study: Churn Prediction)](https://www.youtube.com/watch?v=kE_t3Mm8Z50)
 * Read/Practice [Day-3](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
-
+* See [Data Spread](https://www.khanacademy.org/math/probability/data-distributions-a1/summarizing-spread-distributions/v/range-variance-and-standard-deviation-as-measures-of-dispersion)
