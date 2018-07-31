@@ -1,5 +1,7 @@
 # 100-Days-of-ML
-A day to day plan for this challenge. Covers both theoritical and practical aspects
+A day to day plan for this challenge. Covers both theoritical and practical aspects.
+
+Please see __[Deep Work]__(https://www.quora.com/What-is-the-one-skill-that-if-you-have-it-will-completely-change-your-life/answer/Shashank-Shekhar-221) which compliments our challenge and increases productivity.
 
 ## Day-1
 * Learn about Pandas. [See Videos(1-5)](https://www.dataschool.io/easier-data-analysis-with-pandas/)
