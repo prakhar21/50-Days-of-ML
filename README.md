@@ -8,6 +8,7 @@ Please see __[Deep Work]__(https://www.quora.com/What-is-the-one-skill-that-if-y
 * Learn in general about ML [See Video (Blackbox Machine Learning)](https://www.youtube.com/watch?v=MsD28INtSv8)
 * Read/Practice [Day-1 and Day-2](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 * See [Intro to Linear Regression](https://www.youtube.com/watch?v=zPG4NjIkCjc)
+* Read [LR Docs](http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
 
 ## Day-2  (1st August, 2018)
 * Learn about Pandas. [See Videos(6-10)](https://www.dataschool.io/easier-data-analysis-with-pandas/)
