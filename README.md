@@ -21,4 +21,4 @@ Please see __[Deep Work]__(https://www.quora.com/What-is-the-one-skill-that-if-y
 * Learn about Pandas. [See Videos(11-15)](https://www.dataschool.io/easier-data-analysis-with-pandas/)
 * Learn in general about ML [See Video (Statistical Learning Theory)](https://www.youtube.com/watch?v=rqJ8SrnmWu0)
 * Read/Practice [Day-4 and Day-8](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
-
+* Visualization in Python [See Official Docs](https://matplotlib.org/users/pyplot_tutorial.html)
