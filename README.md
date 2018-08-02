@@ -16,3 +16,9 @@ Please see __[Deep Work]__(https://www.quora.com/What-is-the-one-skill-that-if-y
 * Read/Practice [Day-3](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 * See [Data Spread](https://www.khanacademy.org/math/probability/data-distributions-a1/summarizing-spread-distributions/v/range-variance-and-standard-deviation-as-measures-of-dispersion)
 * Andrew Ng [See Videos (1-3)](https://www.youtube.com/watch?v=-la3q9d7AKQ&list=PLNeKWBMsAzboR8vvhnlanxCNr2V7ITuxy)
+
+## Day-3 (2nd August, 2018)
+* Learn about Pandas. [See Videos(7-11)](https://www.dataschool.io/easier-data-analysis-with-pandas/)
+* Learn in general about ML [See Video (Statistical Learning Theory)](https://www.youtube.com/watch?v=rqJ8SrnmWu0)
+* Read/Practice [Day-4 and Day-8](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
+
