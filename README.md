@@ -28,11 +28,11 @@ Please see __[Deep Work]__(https://www.quora.com/What-is-the-one-skill-that-if-y
 * Read [KNN-1](https://www.analyticsvidhya.com/blog/2018/03/introduction-k-neighbours-algorithm-clustering/)
 * Read [KNN-2](https://medium.com/@adi.bronshtein/a-quick-introduction-to-k-nearest-neighbors-algorithm-62214cea29c7)
 
-## Day-4 (4th August, 2018)
+## Day-5 (4th August, 2018)
 * Learn about Pandas. [See Videos(19-22)](https://www.dataschool.io/easier-data-analysis-with-pandas/)
 * Read/Practice [Day-7](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 
-## Day-5 (5th August, 2018)
+## Day-6 (5th August, 2018)
 * Learn about Pandas. [See Videos(23-26)](https://www.dataschool.io/easier-data-analysis-with-pandas/)
 * Implementing KNN
 * Read/Practice [Day-12](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
