@@ -36,3 +36,4 @@ Please see __[Deep Work]__(https://www.quora.com/What-is-the-one-skill-that-if-y
 * Learn about Pandas. [See Videos(23-26)](https://www.dataschool.io/easier-data-analysis-with-pandas/)
 * Implementing KNN
 * Read/Practice [Day-12](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
+* KNN-Sklearn [See Official Docs](http://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)
