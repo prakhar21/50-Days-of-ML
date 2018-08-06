@@ -37,3 +37,10 @@ Please see __[Deep Work]__(https://www.quora.com/What-is-the-one-skill-that-if-y
 * Implementing KNN
 * Read/Practice [Day-12](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 * KNN-Sklearn [See Official Docs](http://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)
+
+## Day-7 (6th August, 2018)
+* Learn about Numpy. [Read this](https://www.dataquest.io/blog/numpy-tutorial-python/)
+* [Naive Bayes - 1](https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/)
+* [Naive Bayes - 2](https://medium.com/machine-learning-101/chapter-1-supervised-learning-and-naive-bayes-classification-part-1-theory-8b9e361897d5)
+* [Naive Bayes - 3](https://machinelearningmastery.com/naive-bayes-for-machine-learning/)
+* [Naive Bayes - 4](https://www.youtube.com/watch?v=6xBU74VWEuE)
