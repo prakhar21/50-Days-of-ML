@@ -50,5 +50,5 @@ Please see __[Deep Work]__(https://www.quora.com/What-is-the-one-skill-that-if-y
 * [Building Trust in ML models](https://www.analyticsvidhya.com/blog/2017/06/building-trust-in-machine-learning-models/)
 * [Interpretable ML models](https://www.oreilly.com/learning/introduction-to-local-interpretable-model-agnostic-explanations-lime)
 * Implementing Naive Bayes
-* Learn in general about ML [See Video (Stochastic Gradient Descent)](https://www.youtube.com/watch?v=5TZww5bTROE)
+* Learn in general about ML [See Video (Stochastic Gradient Descent)](https://www.youtube.com/watch?v=5TZww5bTROE) - 10 mins onwards
 
