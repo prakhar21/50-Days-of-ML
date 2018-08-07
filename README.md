@@ -52,3 +52,8 @@ Please see __[Deep Work]__(https://www.quora.com/What-is-the-one-skill-that-if-y
 * Implementing Naive Bayes
 * Learn in general about ML [See Video (Stochastic Gradient Descent)](https://www.youtube.com/watch?v=5TZww5bTROE) - 10 mins onwards
 
+## Day-9 (8th August, 2018)
+* Lime hands-on news dataset
+* Light read about [Averaging Ensemble Techniques](http://sebastianraschka.com/Articles/2014_ensemble_classifier.html) for more accurate predictions.
+* Light reading on [Ensemble Techniques](https://www.dataquest.io/blog/introduction-to-ensembles/)
+* Implementing Support Vector Machines
