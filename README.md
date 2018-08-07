@@ -1,7 +1,7 @@
 # 100-Days-of-ML
 A day to day plan for this challenge. Covers both theoritical and practical aspects.
 
-Please see __[Deep Work]__(https://www.quora.com/What-is-the-one-skill-that-if-you-have-it-will-completely-change-your-life/answer/Shashank-Shekhar-221) which compliments our challenge and increases productivity.
+Please see __[Deep Work]__(https://www.quora.com/What-is-the-one-skill-that-if-you-have-it-will-completely-change-your-life/answer/Shashank-Shekhar-221) which compliments our challenge and increases productivity
 
 ## Day-1  (31st July, 2018)
 * Learn about Pandas. [See Videos(1-5)](https://www.dataschool.io/easier-data-analysis-with-pandas/)
@@ -44,3 +44,9 @@ Please see __[Deep Work]__(https://www.quora.com/What-is-the-one-skill-that-if-y
 * [Naive Bayes - 2](https://medium.com/machine-learning-101/chapter-1-supervised-learning-and-naive-bayes-classification-part-1-theory-8b9e361897d5)
 * [Naive Bayes - 3](https://machinelearningmastery.com/naive-bayes-for-machine-learning/)
 * [Naive Bayes - 4](https://www.youtube.com/watch?v=6xBU74VWEuE)
+
+## Day-8 (7th August, 2018)
+* [Lime](https://github.com/marcotcr/lime)
+* [Building Trust in ML models](https://www.analyticsvidhya.com/blog/2017/06/building-trust-in-machine-learning-models/)
+* [Interpretable ML models](https://www.oreilly.com/learning/introduction-to-local-interpretable-model-agnostic-explanations-lime)
+* Implementing Naive Bayes
