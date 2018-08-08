@@ -57,3 +57,4 @@ Please see __[Deep Work]__(https://www.quora.com/What-is-the-one-skill-that-if-y
 * Light read about [Averaging Ensemble Techniques](http://sebastianraschka.com/Articles/2014_ensemble_classifier.html) for more accurate predictions.
 * Light reading on [Ensemble Techniques](https://www.dataquest.io/blog/introduction-to-ensembles/)
 * Implementing Support Vector Machines
+* See [Ensemble learners](https://www.youtube.com/watch?v=Un9zObFjBH0)
