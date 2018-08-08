@@ -3,6 +3,9 @@ A day to day plan for this challenge. Covers both theoritical and practical aspe
 
 Please see __[Deep Work]__(https://www.quora.com/What-is-the-one-skill-that-if-you-have-it-will-completely-change-your-life/answer/Shashank-Shekhar-221) which compliments our challenge and increases productivity
 
+You can follow me on [@Medium](https://medium.com/@prakhar.mishra) for interesting blog articles.
+
+
 ## Day-1  (31st July, 2018)
 * Learn about Pandas. [See Videos(1-5)](https://www.dataschool.io/easier-data-analysis-with-pandas/)
 * Learn in general about ML [See Video (Blackbox Machine Learning)](https://www.youtube.com/watch?v=MsD28INtSv8)
