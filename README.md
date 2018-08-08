@@ -62,3 +62,7 @@ You can follow me on [@Medium](https://medium.com/@prakhar.mishra) for interesti
 * Light reading on [Ensemble Techniques](https://www.dataquest.io/blog/introduction-to-ensembles/)
 * Implementing Support Vector Machines
 * See [Ensemble learners](https://www.youtube.com/watch?v=Un9zObFjBH0)
+
+## Day-10 (9th August, 2018)
+* Implement Average Voting Ensemble Meta Model
+
