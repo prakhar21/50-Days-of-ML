@@ -67,3 +67,4 @@ You can follow me on [@Medium](https://medium.com/@prakhar.mishra) for interesti
 * Implement Average Voting Ensemble Meta Model
 * Read about [Stacking Ensemble Technique](https://www.kdnuggets.com/2017/02/stacking-models-imropved-predictions.html)
 * Read [Stacking from scratch](https://machinelearningmastery.com/implementing-stacking-scratch-python/)
+* Read [Stacking-concept-pictures-code](https://github.com/vecxoz/vecstack/blob/master/examples/00_stacking_concept_pictures_code.ipynb)
