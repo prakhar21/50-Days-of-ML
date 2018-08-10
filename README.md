@@ -75,3 +75,4 @@ You can follow me on [@Medium](https://medium.com/@prakhar.mishra) for interesti
 * Read [Why, How and When to Scale](https://medium.com/greyatom/why-how-and-when-to-scale-your-features-4b30ab09db5e)
 * Implementation of Feature scaling techniques
 * See [Decision Trees - MMDS](https://www.youtube.com/watch?v=NsUqRe-9tb4)
+* Glance through [Decision Trees - Coursera](https://www.coursera.org/learn/ml-classification/home/week/3)
