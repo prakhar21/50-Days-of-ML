@@ -68,3 +68,10 @@ You can follow me on [@Medium](https://medium.com/@prakhar.mishra) for interesti
 * Read about [Stacking Ensemble Technique](https://www.kdnuggets.com/2017/02/stacking-models-imropved-predictions.html)
 * Read [Stacking from scratch](https://machinelearningmastery.com/implementing-stacking-scratch-python/)
 * Read [Stacking-concept-pictures-code](https://github.com/vecxoz/vecstack/blob/master/examples/00_stacking_concept_pictures_code.ipynb)
+
+## Day-11 (10th August, 2018)
+* Read/Practice [Day-25](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%2025%20Decision%20Tree.md)
+* Read about [Feature Scaling](http://sebastianraschka.com/Articles/2014_about_feature_scaling.html)
+* Read [Why, How and When to Scale](https://medium.com/greyatom/why-how-and-when-to-scale-your-features-4b30ab09db5e)
+* Read about [Decision Trees](http://google.com)
+* Implementation of Feature scaling techniques
