@@ -76,3 +76,8 @@ You can follow me on [@Medium](https://medium.com/@prakhar.mishra) for interesti
 * Implementation of Feature scaling techniques
 * See [Decision Trees - MMDS](https://www.youtube.com/watch?v=NsUqRe-9tb4)
 * Glance through [Decision Trees - Coursera](https://www.coursera.org/learn/ml-classification/home/week/3)
+
+## Day-12 (11th August, 2018)
+* Implementing of Decision Trees
+* See lectures from [Coursera - 2nd week](https://www.coursera.org/learn/ml-classification/home/week/2) and [Coursera - 4th week](https://www.coursera.org/learn/ml-classification/home/week/4)
+
