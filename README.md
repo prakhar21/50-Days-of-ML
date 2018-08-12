@@ -81,3 +81,5 @@ You can follow me on [@Medium](https://medium.com/@prakhar.mishra) for interesti
 * Implementing of Decision Trees
 * See lectures from [Coursera - 2nd week](https://www.coursera.org/learn/ml-classification/home/week/2) and [Coursera - 4th week](https://www.coursera.org/learn/ml-classification/home/week/4)
 
+## Day-13 (12th August, 2018)
+* Khan Academy [Vector's Section](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/v/vector-introduction-linear-algebra)
