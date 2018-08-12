@@ -85,3 +85,4 @@ You can follow me on [@Medium](https://medium.com/@prakhar.mishra) for interesti
 * Khan Academy [Vector's Section](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/v/vector-introduction-linear-algebra)
 * Light read on [Stacking Classifier](https://rasbt.github.io/mlxtend/user_guide/classifier/StackingClassifier/)
 * Implementing - Handeling missing values using pandas
+* General read on [EM for data imputation](https://www.theanalysisfactor.com/em-imputation-and-missing-data-is-mean-imputation-really-so-terrible/)
