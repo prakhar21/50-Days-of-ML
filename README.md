@@ -83,3 +83,5 @@ You can follow me on [@Medium](https://medium.com/@prakhar.mishra) for interesti
 
 ## Day-13 (12th August, 2018)
 * Khan Academy [Vector's Section](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/v/vector-introduction-linear-algebra)
+* Light read on [Stacking Classifier](https://rasbt.github.io/mlxtend/user_guide/classifier/StackingClassifier/)
+* Implementing - Handeling missing values using pandas
