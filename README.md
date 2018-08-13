@@ -86,3 +86,6 @@ You can follow me on [@Medium](https://medium.com/@prakhar.mishra) for interesti
 * Light read on [Stacking Classifier](https://rasbt.github.io/mlxtend/user_guide/classifier/StackingClassifier/)
 * Implementing - Handeling missing values using pandas
 * General read on [EM for data imputation](https://www.theanalysisfactor.com/em-imputation-and-missing-data-is-mean-imputation-really-so-terrible/)
+
+## Day-14 (13th August, 2018)
+* Read about [Model Evaluation](https://www.coursera.org/learn/ml-classification/home/week/6)
