@@ -89,3 +89,4 @@ You can follow me on [@Medium](https://medium.com/@prakhar.mishra) for interesti
 
 ## Day-14 (13th August, 2018)
 * Read about [Model Evaluation](https://www.coursera.org/learn/ml-classification/home/week/6)
+* See Khan Academy [Linear combinatations & span](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/linear-combinations/v/linear-combinations-and-span) and [Linear Dependence/Independence](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/linear-independence/v/linear-algebra-introduction-to-linear-independence)
