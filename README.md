@@ -91,3 +91,8 @@ You can follow me on [@Medium](https://medium.com/@prakhar.mishra) for interesti
 * Read about [Model Evaluation](https://www.coursera.org/learn/ml-classification/home/week/6)
 * See Khan Academy [Linear combinatations & span](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/linear-combinations/v/linear-combinations-and-span) and [Linear Dependence/Independence](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/linear-independence/v/linear-algebra-introduction-to-linear-independence)
 * Explore a [Helper Lib](https://github.com/rasbt/mlxtend/)
+
+## Day-15 (14th August, 2018)
+* See Khan Academy [Subspaces](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/subspace-basis/v/linear-subspaces)
+* Practice [Mlxtend](https://github.com/rasbt/mlxtend/)
+* Read/Practice [Day-33 & Day-34](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
