@@ -96,3 +96,6 @@ You can follow me on [@Medium](https://medium.com/@prakhar.mishra) for interesti
 * See Khan Academy [Subspaces](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/subspace-basis/v/linear-subspaces)
 * Practice [Mlxtend](https://github.com/rasbt/mlxtend/)
 * Read/Practice [Day-33 & Day-34](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
+
+## Day-16 (15th August, 2018)
+* Light read on [Vector Quantization](https://machinelearningmastery.com/learning-vector-quantization-for-machine-learning/)
