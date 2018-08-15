@@ -99,4 +99,4 @@ You can follow me on [@Medium](https://medium.com/@prakhar.mishra) for interesti
 
 ## Day-16 (15th August, 2018)
 * Light read on [Vector Quantization](https://machinelearningmastery.com/learning-vector-quantization-for-machine-learning/)
-* Reading about the working of XGBoost
+* Reading about [Boosting Algorithms](https://www.youtube.com/watch?v=wPqtzj5VZus)
