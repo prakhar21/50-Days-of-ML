@@ -110,3 +110,4 @@ You can follow me on [@Medium](https://medium.com/@prakhar.mishra) for interesti
 ## Day-18 (20th August, 2018)
 * General read on [Medium](https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e)
 * Read about [Text Classification](https://medium.com/@ageitgey/text-classification-is-your-new-secret-weapon-7ca4fad15788)
+* Read about [scrape method in Pandas](https://medium.com/@ageitgey/quick-tip-the-easiest-way-to-grab-data-out-of-a-web-page-in-python-7153cecfca58)
