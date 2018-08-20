@@ -106,3 +106,6 @@ You can follow me on [@Medium](https://medium.com/@prakhar.mishra) for interesti
 * Performance Metrics Hands-on
 * Khan Academy [Vector dot products](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/vector-dot-product-and-vector-length)
 * See [Metrics Optimization](https://www.coursera.org/learn/competitive-data-science/home/week/3)
+
+## Day-18 (20th August, 2018)
+* General read on [Medium](https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e)
