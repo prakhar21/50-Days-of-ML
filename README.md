@@ -112,3 +112,11 @@ You can follow me on [@Medium](https://medium.com/@prakhar.mishra) for interesti
 * Read about [Text Classification](https://medium.com/@ageitgey/text-classification-is-your-new-secret-weapon-7ca4fad15788)
 * Read about [scrape method in Pandas](https://medium.com/@ageitgey/quick-tip-the-easiest-way-to-grab-data-out-of-a-web-page-in-python-7153cecfca58)
 * Read about [FastText](https://research.fb.com/fasttext/)
+
+## Day-19 (21st August, 2018)
+* Glance through [Sklearn Docs on Feature Selection](http://scikit-learn.org/stable/modules/feature_selection.html)
+* Read [Feature Selection - Analytics Vidhya](https://www.analyticsvidhya.com/blog/2016/12/introduction-to-feature-selection-methods-with-an-example-or-how-to-select-the-right-variables/)
+* See [C2W1L4](https://www.youtube.com/watch?v=6g0t3Phly2M) and [C2W1L5](https://www.youtube.com/watch?v=NyG-7nRpsW8)
+* Implementing Feature Selection Methods
+
+
