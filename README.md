@@ -123,3 +123,4 @@ You can follow me on [@Medium](https://medium.com/@prakhar.mishra) for interesti
 * Explore [A fast and simple progress bar](https://github.com/tqdm/tqdm)
 * Casual read on [Pandas - Tips/Tricks - 1](https://cambridgespark.com/content/tutorials/quick-panda-tricks/index.html) and [Pandas - Tips/Tricks - 2](https://towardsdatascience.com/pandas-tips-and-tricks-33bcc8a40bb9)
 * See [Day 35](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
+* Implement data resampling techniques
