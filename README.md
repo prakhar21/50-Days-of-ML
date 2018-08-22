@@ -1,7 +1,7 @@
 # 100-Days-of-ML
 A day to day plan for this challenge. Covers both theoritical and practical aspects.
 
-Please see __[Deep Work]__(https://www.quora.com/What-is-the-one-skill-that-if-you-have-it-will-completely-change-your-life/answer/Shashank-Shekhar-221) which compliments our challenge and increases productivity
+Please see [__Deep Work__](https://www.quora.com/What-is-the-one-skill-that-if-you-have-it-will-completely-change-your-life/answer/Shashank-Shekhar-221) which compliments our challenge and increases productivity
 
 You can follow me on [@Medium](https://medium.com/@prakhar.mishra) for interesting blog articles.
 
@@ -122,4 +122,4 @@ You can follow me on [@Medium](https://medium.com/@prakhar.mishra) for interesti
 ## Day-20 (22nd August, 2018)
 * Explore [A fast and simple progress bar](https://github.com/tqdm/tqdm)
 * Casual read on [Pandas - Tips/Tricks - 1](https://cambridgespark.com/content/tutorials/quick-panda-tricks/index.html) and [Pandas - Tips/Tricks - 2](https://towardsdatascience.com/pandas-tips-and-tricks-33bcc8a40bb9)
-* See [Day 35] (https://github.com/Avik-Jain/100-Days-Of-ML-Code)
+* See [Day 35](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
