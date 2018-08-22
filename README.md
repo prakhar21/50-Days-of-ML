@@ -119,4 +119,6 @@ You can follow me on [@Medium](https://medium.com/@prakhar.mishra) for interesti
 * See [C2W1L4](https://www.youtube.com/watch?v=6g0t3Phly2M) and [C2W1L5](https://www.youtube.com/watch?v=NyG-7nRpsW8)
 * Implementing Feature Selection Methods
 
-
+## Day-20 (22nd August, 2018)
+* Explore [A fast and simple progress bar](https://github.com/tqdm/tqdm)
+* Casual read on [Pandas - Tips/Tricks - 1](https://cambridgespark.com/content/tutorials/quick-panda-tricks/index.html) and [Pandas - Tips/Tricks - 2](https://towardsdatascience.com/pandas-tips-and-tricks-33bcc8a40bb9) 
