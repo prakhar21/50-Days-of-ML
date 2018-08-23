@@ -124,3 +124,7 @@ You can follow me on [@Medium](https://medium.com/@prakhar.mishra) for interesti
 * Casual read on [Pandas - Tips/Tricks - 1](https://cambridgespark.com/content/tutorials/quick-panda-tricks/index.html) and [Pandas - Tips/Tricks - 2](https://towardsdatascience.com/pandas-tips-and-tricks-33bcc8a40bb9)
 * See [Day 35](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 * Implement data resampling techniques
+
+## Day-21 (23rd August, 2018)
+* See all videos under [C2W2](https://www.youtube.com/watch?v=SjQyLhQIXSM&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc&index=2)
+* Implement saving/loading of ML models
