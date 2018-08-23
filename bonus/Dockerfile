@@ -2,7 +2,8 @@ FROM ubuntu:16.04
 
 # Base OS essentials
 RUN apt-get update && apt-get install -y
-RUN apt-get install python-pip python-dev vim -y
+RUN apt-get install python-pip -y
+RUN apt-get install python-dev -y
 
 # ML essentials requirements (till day 21)
 RUN pip install --upgrade pip
