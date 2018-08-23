@@ -3,7 +3,7 @@ A day to day plan for this challenge. Covers both theoritical and practical aspe
 
 I have build a [__Docker Image__]() with all the required dependencies till __Day 21__. Feel free to use it.
 
-Please see [__Deep Work__](https://www.quora.com/What-is-the-one-skill-that-if-you-have-it-will-completely-change-your-life/answer/Shashank-Shekhar-221) which compliments our challenge and increases productivity. You can follow me on [@Medium](https://medium.com/@prakhar.mishra) for interesting blog articles.
+Please see [__Deep Work__](https://www.quora.com/What-is-the-one-skill-that-if-you-have-it-will-completely-change-your-life/answer/Shashank-Shekhar-221) which compliments our challenge and increases productivity. You can follow me on [__@Medium__](https://medium.com/@prakhar.mishra) for interesting blog articles.
 
 
 ## Day-1  (31st July, 2018)
@@ -128,3 +128,4 @@ Please see [__Deep Work__](https://www.quora.com/What-is-the-one-skill-that-if-y
 ## Day-21 (23rd August, 2018)
 * See all videos under [C2W2](https://www.youtube.com/watch?v=SjQyLhQIXSM&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc&index=2)
 * Implement saving/loading of ML models
+* Write Dockerfile
