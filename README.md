@@ -1,7 +1,7 @@
 # 100-Days-of-ML
 A day to day plan for this challenge. Covers both theoritical and practical aspects.
 
-I have build a __Docker Image__ with all the required dependencies till __Day 21__. Feel free to use it by pulling it using -> docker pull prakhar21/ml-utilities
+I have build a __Docker Image__ with all the required dependencies till __Day 21__. Feel free to use it by pulling it using -> __docker pull prakhar21/ml-utilities__
 
 Please see [__Deep Work__](https://www.quora.com/What-is-the-one-skill-that-if-you-have-it-will-completely-change-your-life/answer/Shashank-Shekhar-221) which compliments our challenge and increases productivity. You can follow me on [__@Medium__](https://medium.com/@prakhar.mishra) for interesting blog articles.
 
