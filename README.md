@@ -1,7 +1,7 @@
 # 100-Days-of-ML
 A day to day plan for this challenge. Covers both theoritical and practical aspects.
 
-I have build a __Docker Image__ with all the required dependencies till __Day 21__. Feel free to use it by pulling it using -> __docker pull prakhar21/ml-utilities__
+I have build [ __Docker Image__](https://hub.docker.com/r/prakhar21/ml-utilities/) with all the required dependencies till __Day 21__. Feel free to use it by pulling it using -> __docker pull prakhar21/ml-utilities__
 
 Please see [__Deep Work__](https://www.quora.com/What-is-the-one-skill-that-if-you-have-it-will-completely-change-your-life/answer/Shashank-Shekhar-221) which compliments our challenge and increases productivity. You can follow me on [__@Medium__](https://medium.com/@prakhar.mishra) for interesting blog articles.
 
@@ -36,7 +36,7 @@ Please see [__Deep Work__](https://www.quora.com/What-is-the-one-skill-that-if-y
 * Read/Practice [Day-7](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 * General read on [Medium](https://blog.usejournal.com/cracking-eaadhar-password-in-3-seconds-with-maths-9533c8e8f9c2)
 
-## Day-6 (5th August, 2018)
+# Day-6 (5th August, 2018)
 * Learn about Pandas. [See Videos(23-26)](https://www.dataschool.io/easier-data-analysis-with-pandas/)
 * Implementing KNN
 * Read/Practice [Day-12](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
