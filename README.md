@@ -129,3 +129,7 @@ Please see [__Deep Work__](https://www.quora.com/What-is-the-one-skill-that-if-y
 * See all videos under [C2W2](https://www.youtube.com/watch?v=SjQyLhQIXSM&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc&index=2)
 * Implement saving/loading of ML models
 * Write Dockerfile
+
+## Day-22 (24th August, 2018)
+* See and follow along [Introduction to PyTorch](https://www.youtube.com/watch?v=fJZew-fdNxw)
+* Push Dockerfile and update Docker Readme.
