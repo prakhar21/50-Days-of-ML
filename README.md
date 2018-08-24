@@ -36,7 +36,7 @@ Please see [__Deep Work__](https://www.quora.com/What-is-the-one-skill-that-if-y
 * Read/Practice [Day-7](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 * General read on [Medium](https://blog.usejournal.com/cracking-eaadhar-password-in-3-seconds-with-maths-9533c8e8f9c2)
 
-# Day-6 (5th August, 2018)
+## Day-6 (5th August, 2018)
 * Learn about Pandas. [See Videos(23-26)](https://www.dataschool.io/easier-data-analysis-with-pandas/)
 * Implementing KNN
 * Read/Practice [Day-12](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
