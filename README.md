@@ -136,6 +136,7 @@ Please see [__Deep Work__](https://www.quora.com/What-is-the-one-skill-that-if-y
 
 ## Day-23 (25th August, 2018)
 * Read Chapter 6 (till 6.1.2) from the book Mining Massive Datasets
+* Read/Practice [Day-26](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 
 ## Day-24 (26th August, 2018)
 * Read Chapter 6 (till 6.1) from the book Mining Massive Datasets
