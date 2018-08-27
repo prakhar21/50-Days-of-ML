@@ -133,3 +133,9 @@ Please see [__Deep Work__](https://www.quora.com/What-is-the-one-skill-that-if-y
 ## Day-22 (24th August, 2018)
 * See and follow along [Introduction to PyTorch](https://www.youtube.com/watch?v=fJZew-fdNxw)
 * Push Dockerfile and update Docker Readme.
+
+## Day-23 (25th August, 2018)
+* Read Chapter 6 (till 6.1.2) from the book Mining Massive Datasets
+
+## Day-24 (26th August, 2018)
+* Read Chapter 6 (till 6.1) from the book Mining Massive Datasets
