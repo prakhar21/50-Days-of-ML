@@ -146,5 +146,5 @@ Please see [__Deep Work__](https://www.quora.com/What-is-the-one-skill-that-if-y
 
 ## Day-26 (28th August, 2018)
 * See 1, 2, 3 videos from [Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
-* Read [Reinforcement Learning - Week 1](https://www.coursera.org/learn/practical-rl/home/week/1)
+* See [Week-1 (Video by David Silver)](https://github.com/yandexdataschool/Practical_RL/tree/master/week1_intro)
 
