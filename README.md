@@ -143,3 +143,7 @@ Please see [__Deep Work__](https://www.quora.com/What-is-the-one-skill-that-if-y
 
 ## Day-25 (27th August, 2018)
 * Read/Practice [Day-27](https://github.com/Avik-Jain/100-Days-Of-ML-Code) and [Day-28](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
+
+## Day-26 (28th August, 2018)
+* See 1, 2, 3 videos from [Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+
