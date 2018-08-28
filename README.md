@@ -148,3 +148,6 @@ Please see [__Deep Work__](https://www.quora.com/What-is-the-one-skill-that-if-y
 * See 1, 2, 3 videos from [Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 * See [Week-1 (Video by David Silver)](https://github.com/yandexdataschool/Practical_RL/tree/master/week1_intro)
 
+## Day-27 (29th August, 2018)
+* Read about article on [RL 1, 2, 3, 4](https://medium.com/@prakhar.mishra)
+* Implement randomised cartpole balancer
