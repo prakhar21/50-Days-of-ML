@@ -151,3 +151,9 @@ Please see [__Deep Work__](https://www.quora.com/What-is-the-one-skill-that-if-y
 ## Day-27 (29th August, 2018)
 * Read about article on [RL 1, 2, 3, 4](https://medium.com/@prakhar.mishra)
 * Implement randomised cartpole balancer
+
+## Day-28 (30th August, 2018)
+* Read [paper](https://arxiv.org/pdf/1808.07913.pdf)
+* Implement neural network in PyTorch
+* PyTorch + TensorBoard
+* Update Docker File/Image
