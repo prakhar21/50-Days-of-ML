@@ -168,3 +168,4 @@ Please see [__Deep Work__](https://www.quora.com/What-is-the-one-skill-that-if-y
 
 ## Day-31 (3rd September, 2018)
 * Implement Cartpole using Cross Entropy method
+* Read about Bellman Equations
