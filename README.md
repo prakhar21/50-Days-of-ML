@@ -157,3 +157,14 @@ Please see [__Deep Work__](https://www.quora.com/What-is-the-one-skill-that-if-y
 * Implement neural network in PyTorch
 * PyTorch + TensorBoard
 * Update Docker File/Image
+
+## Day-29 (31st August, 2018)
+* See 4, 5, 6 videos from [Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+* See 1, 2, 3, 4 videos from [Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+
+## Day-30 (1st September, 2018)
+* Implementing NN from scratch
+* See 5, 6 videos from [Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+
+## Day-31 (3rd September, 2018)
+* Implement Cartpole using Cross Entropy method
