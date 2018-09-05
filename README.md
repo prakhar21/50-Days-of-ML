@@ -177,3 +177,4 @@ Please see [__Deep Work__](https://www.quora.com/What-is-the-one-skill-that-if-y
 ## Day-33 (5th September, 2018)
 * Read/Practice [Day 51](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 * See [But what *is* a Neural Network?](https://www.youtube.com/watch?v=aircAruvnKk&t=7s)
+* Read [Grammar correction in text](http://ww.panl10n.net/english/final%20reports/pdf%20files/Bangladesh/BAN21.pdf) usecase
