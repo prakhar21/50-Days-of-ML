@@ -173,3 +173,7 @@ Please see [__Deep Work__](https://www.quora.com/What-is-the-one-skill-that-if-y
 * Read about Q-Learning.
 * See 7, 8, 9 videos from [Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 * See 7, 8 videos from [Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+
+## Day-33 (5th September, 2018)
+* Read/Practice [Day 51](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
+* See [But what *is* a Neural Network?](https://www.youtube.com/watch?v=aircAruvnKk&t=7s)
