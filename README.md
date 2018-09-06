@@ -182,5 +182,5 @@ Please see [__Deep Work__](https://www.quora.com/What-is-the-one-skill-that-if-y
 ## day-34 (6th September, 2018)
 * See [How Neural Networks learn](https://www.youtube.com/watch?v=IHZwWFHWa-w&t=0s&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=3)
 * Read [Text Summarization](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.19.5237&rep=rep1&type=pdf)
-* See 10, 11 from [Linear Algebra]((https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+* See 10, 11 from [Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
