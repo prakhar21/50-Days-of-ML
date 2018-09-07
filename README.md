@@ -184,3 +184,7 @@ Please see [__Deep Work__](https://www.quora.com/What-is-the-one-skill-that-if-y
 * Read [Text Summarization](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.19.5237&rep=rep1&type=pdf)
 * See 10, 11 videos from [Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 * Read [Neural Networks, Manifolds, and Topology](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
+
+
+## Day-35 (7th September, 2018)
+* Implement Q-Learning
