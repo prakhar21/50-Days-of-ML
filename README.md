@@ -192,3 +192,7 @@ Please see [__Deep Work__](https://www.quora.com/What-is-the-one-skill-that-if-y
 * Complete [Equations/Graphs/Functions](https://courses.edx.org/courses/course-v1:Microsoft+DAT256x+2T2018/courseware/72190688919b4f72a3e81a7fdbc4ec19/be5df94381c74baf8fdd83c36f71e0f0/?child=first)
 * See 9, 10 videos from [Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 * See [What does Backpropagation really do ?](https://www.youtube.com/watch?v=Ilg3gGewQ5U&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=3)
+
+## Day-37 (11th September, 2018)
+* See [Backpropagation Calculus](https://www.youtube.com/watch?v=tIeHLnjs5U8&index=4&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+* See 1, 2, 3 from [Statistics](https://www.youtube.com/watch?v=uhxtUt_-GyM&list=PL1328115D3D8A2566)
