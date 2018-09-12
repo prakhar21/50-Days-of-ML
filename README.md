@@ -197,6 +197,6 @@ Please see [__Deep Work__](https://www.quora.com/What-is-the-one-skill-that-if-y
 * See [Backpropagation Calculus](https://www.youtube.com/watch?v=tIeHLnjs5U8&index=4&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 * See 1, 2, 3 from [Statistics - Khan Academy](https://www.youtube.com/watch?v=uhxtUt_-GyM&list=PL1328115D3D8A2566)
 
-# Day-38 (12th September, 2018)
+## Day-38 (12th September, 2018)
 * Read 7 in [Assignments](https://mlcourse.ai/assignments)
 * See 4, 5, 6 from [Statistics - Khan Academy](https://www.youtube.com/watch?v=uhxtUt_-GyM&list=PL1328115D3D8A2566)
