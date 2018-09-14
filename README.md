@@ -209,5 +209,5 @@ Please see [__Deep Work__](https://www.quora.com/What-is-the-one-skill-that-if-y
 * See 7, 8 from [Statistics - Khan Academy](https://www.youtube.com/watch?v=uhxtUt_-GyM&list=PL1328115D3D8A2566)
 
 ## Day-41 (15th September, 2018)
-* Read about [Apache Spark - 1](https://www.dezyre.com/apache-spark-tutorial/pyspark-tutorial) and [Apache Spark - 2](https://www.datacamp.com/community/tutorials/apache-spark-tutorial-machine-learning)
+* Read about Spectral Clustering
 * See 9, 10, 11, 12 [Statistics - Khan Academy](https://www.youtube.com/watch?v=uhxtUt_-GyM&list=PL1328115D3D8A2566)
