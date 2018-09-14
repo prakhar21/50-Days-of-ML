@@ -205,4 +205,4 @@ Please see [__Deep Work__](https://www.quora.com/What-is-the-one-skill-that-if-y
 * Read about Agglomerative Clustering
 
 ## Day-40 (14th September, 2018)
-* Read about Deep-Q-Networks
+* Read about Deep-Q-Networks and understand epsilon-greedy, replay buffer and target network in the same context.
