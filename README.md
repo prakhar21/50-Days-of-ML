@@ -200,3 +200,9 @@ Please see [__Deep Work__](https://www.quora.com/What-is-the-one-skill-that-if-y
 ## Day-38 (12th September, 2018)
 * Read 7 in [Assignments](https://mlcourse.ai/assignments)
 * See 4, 5, 6 from [Statistics - Khan Academy](https://www.youtube.com/watch?v=uhxtUt_-GyM&list=PL1328115D3D8A2566)
+
+## Day-39 (13th September, 2018)
+* Read about Agglomerative Clustering
+
+## Day-40 (14th September, 2018)
+* Read about Deep-Q-Networks
