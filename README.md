@@ -206,3 +206,5 @@ Please see [__Deep Work__](https://www.quora.com/What-is-the-one-skill-that-if-y
 
 ## Day-40 (14th September, 2018)
 * Read about Deep-Q-Networks and understand epsilon-greedy, replay buffer and target network in the same context.
+* See 7, 8 from [Statistics - Khan Academy](https://www.youtube.com/watch?v=uhxtUt_-GyM&list=PL1328115D3D8A2566)
+
