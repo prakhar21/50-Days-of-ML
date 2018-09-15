@@ -211,3 +211,4 @@ Please see [__Deep Work__](https://www.quora.com/What-is-the-one-skill-that-if-y
 ## Day-41 (15th September, 2018)
 * Read about Spectral Clustering
 * See 9, 10, 11, 12 [Statistics - Khan Academy](https://www.youtube.com/watch?v=uhxtUt_-GyM&list=PL1328115D3D8A2566)
+* Complete [Finance and Python](https://campus.datacamp.com/courses/importing-managing-financial-data-in-python/importing-stock-listing-data-from-excel)
