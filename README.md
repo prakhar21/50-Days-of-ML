@@ -215,3 +215,4 @@ Please see [__Deep Work__](https://www.quora.com/What-is-the-one-skill-that-if-y
 
 ## Day-42 (16th September, 2018)
 * Read [Autoencoders Notebook](https://www.kaggle.com/shivamb/how-autoencoders-work-intro-and-usecases?utm_medium=social&utm_source=linkedin.com&utm_campaign=Weekly-Kernel-Awards)
+* Complete [Week-1](https://www.coursera.org/learn/fundamentals-machine-learning-in-finance/home/week/1)
