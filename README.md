@@ -220,3 +220,4 @@ Please see [__Deep Work__](https://www.quora.com/What-is-the-one-skill-that-if-y
 ## Day-43 (18th September, 2018)
 * See [Neural Voice Cloning](https://www.youtube.com/watch?v=gVehTbi6Ipc&feature=youtu.be)
 * Complete [Week-2](https://www.coursera.org/learn/fundamentals-machine-learning-in-finance/home/week/2)
+* Read [Autoencoder in Text](https://www.doc.ic.ac.uk/~js4416/163/website/nlp/)
