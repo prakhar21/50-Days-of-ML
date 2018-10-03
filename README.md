@@ -221,3 +221,26 @@ Please see [__Deep Work__](https://www.quora.com/What-is-the-one-skill-that-if-y
 * See [Neural Voice Cloning](https://www.youtube.com/watch?v=gVehTbi6Ipc&feature=youtu.be)
 * Complete [Week-2](https://www.coursera.org/learn/fundamentals-machine-learning-in-finance/home/week/2)
 * Read [Autoencoder in Text](https://www.doc.ic.ac.uk/~js4416/163/website/nlp/)
+
+## Day-44 (19th September, 2018)
+* Read 1-10 pages of [A Primer on Neural Network Modelsfor Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
+
+## Day-45 (20th Spetember, 2018)
+* Read 11-20 pages of [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
+
+## Day-46 (21st September, 2018)
+* Read 21-30 pages of [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
+
+## Day-47 (22nd Spetember, 2018)
+* Read 31-40 pages of [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
+
+## Day-48 (22nd Spetember, 2018)
+* Read 41-50 pages of [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
+
+## Day-49 (23rd September, 2018)
+* Read 51-60 pages of [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
+
+## Day-50 (24th Spetember, 2018)
+* Read 61-76 pages of [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
+
+
