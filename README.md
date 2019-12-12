@@ -1,4 +1,4 @@
-# 100-Days-of-ML
+# 50-Days-of-ML
 A day to day plan for this challenge. Covers both theoritical and practical aspects.
 
 I have build [ __Docker Image__](https://hub.docker.com/r/prakhar21/ml-utilities/) with all the required dependencies till __Day 21__. Feel free to use it by pulling it using -> __docker pull prakhar21/ml-utilities__
